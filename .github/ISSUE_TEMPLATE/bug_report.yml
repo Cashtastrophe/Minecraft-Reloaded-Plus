@@ -21,7 +21,7 @@ body:
       description: What version of the modpack were you using? (Please type it exactly as it is on the version page)
     validations:
       required: true
-      - type: dropdown
+  - type: dropdown
     id: versionStatus
     attributes:
       label: Version Status
