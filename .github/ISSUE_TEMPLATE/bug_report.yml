@@ -1,0 +1,60 @@
+name: Report a Bug
+description: Something is not working.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Please fill out the feilds below to help us see how this happend.
+  - type: input
+    id: minecraftVersion
+    attributes:
+      label: Minecraft Version
+      description: What version of Minecraft were you running?
+    validations:
+      required: true
+#- type: dropdown
+ #   id: modLoader
+ #   attributes:
+#      label: Mod Loader
+#      description: What mod loader were you using?
+#      options:
+#        - Forge
+#    validations:
+ #     required: true
+  - type: input
+    id: modLoaderVersion
+    attributes:
+      label: Forge Version
+      description: What forge version were you using?
+    validations:
+      required: true
+  - type: input
+    id: modVersion
+    attributes:
+      label: Modpack Version
+      description: What version of the modpack were you using?
+    validations:
+      required: true
+  - type: textarea
+    id: otherMods
+    attributes:
+      label: Modpack or other Mod
+      description: Are you playing with any mods that do not come default in the modpack? If so please link to them here.
+    id: description
+    attributes:
+      label: Describe the Issue
+      description: Be as thorough as possible and provide a step-by-step guide to reproduce the issue.
+    validations:
+      required: true
+  - type: input
+    id: logs
+    attributes:
+      label: Logs
+      description: Use a site like pastbin to provide a link to the logs here, also make sure they are set to not expire. (Leave blank if not applicable)
+  - type: input
+    id: offendingMod
+    attributes:
+      label: Do you know exactly what mod is not working? (Leave blank is you do not know)
+      description: Please list the mod(s) here.
