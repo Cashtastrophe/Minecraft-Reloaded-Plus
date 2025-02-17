@@ -1,0 +1,21 @@
+name: Request a Feature/Mod
+description: I want to suggest a feture and or mod!
+title: "Feature Request: "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for wanting to improve the modpack! Please fill out the feilds below so we know what you would like.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Be as thorough as possible in what you would like. It may be helpful to provide illustration.
+    validations:
+      required: true
+  - type: textarea
+    id: mods
+    attributes:
+      label: Mods in mind
+      description: If you all ready know what mods you would like please link to them here. (Please not they need to be in version 1.20.1, using Forge, and be listed on Modrinth/CurseForge)
