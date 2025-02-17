@@ -7,17 +7,6 @@ body:
     attributes:
       value: |
         Thanks for reporting a bug. Please fill out the feilds below to help us see how this happend.
-  - type: dropdown
-    id: versionStatus
-    attributes:
-      label: Version Status
-      description: What was the version status?
-      options:
-        - Release
-        - Beta
-        - Alpha
-    validations:
-      required: true
   - type: input
     id: modLoaderVersion
     attributes:
@@ -30,6 +19,17 @@ body:
     attributes:
       label: Modpack Version
       description: What version of the modpack were you using? (Please type it exactly as it is on the version page)
+    validations:
+      required: true
+      - type: dropdown
+    id: versionStatus
+    attributes:
+      label: Version Status
+      description: What was the version status?
+      options:
+        - Release
+        - Beta
+        - Alpha
     validations:
       required: true
   - type: textarea
