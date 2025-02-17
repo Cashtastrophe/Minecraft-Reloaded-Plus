@@ -3,6 +3,7 @@
 Minecraft Reloaded+ aims to add features to improve on what all ready already exist, while also including many popular mods that do not stray away far from the vanilla experience. Think of this like a Vanilla++ modpack, changing the game but also improving it!
 
 Photo goes here but I can't figure out how to put it in README
+
 **Features**
 
    **🏔️ Fully overhauled world generation**
