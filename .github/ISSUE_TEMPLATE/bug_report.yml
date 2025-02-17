@@ -7,27 +7,11 @@ body:
     attributes:
       value: |
         Thanks for reporting a bug. Please fill out the feilds below to help us see how this happend.
-#  - type: input
-#    id: minecraftVersion
-#    attributes:
-#      label: Minecraft Version
-#      description: What version of Minecraft were you running?
-#    validations:
-#      required: true
-#- type: dropdown
- #   id: modLoader
- #   attributes:
-#      label: Mod Loader
-#      description: What mod loader were you using?
-#      options:
-#        - Forge
-#    validations:
- #     required: true
- - type: dropdown
-    id: beta
+  - type: dropdown
+    id: versionStatus
     attributes:
-      label: Release Type
-      description: What was the release type of the modpack?
+      label: Version Status
+      description: What was the version status?
       options:
         - Release
         - Beta
