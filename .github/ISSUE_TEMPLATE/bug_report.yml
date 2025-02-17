@@ -7,13 +7,13 @@ body:
     attributes:
       value: |
         Thanks for reporting a bug. Please fill out the feilds below to help us see how this happend.
-  - type: input
-    id: minecraftVersion
-    attributes:
-      label: Minecraft Version
-      description: What version of Minecraft were you running?
-    validations:
-      required: true
+#  - type: input
+#    id: minecraftVersion
+#    attributes:
+#      label: Minecraft Version
+#      description: What version of Minecraft were you running?
+#    validations:
+#      required: true
 #- type: dropdown
  #   id: modLoader
  #   attributes:
@@ -23,6 +23,17 @@ body:
 #        - Forge
 #    validations:
  #     required: true
+ - type: dropdown
+    id: beta
+    attributes:
+      label: Release Type
+      description: What was the release type of the modpack?
+      options:
+        - Release
+        - Beta
+        - Alpha
+    validations:
+      required: true
   - type: input
     id: modLoaderVersion
     attributes:
@@ -34,7 +45,7 @@ body:
     id: modVersion
     attributes:
       label: Modpack Version
-      description: What version of the modpack were you using?
+      description: What version of the modpack were you using? (Please type it exactly as it is on the version page)
     validations:
       required: true
   - type: textarea
