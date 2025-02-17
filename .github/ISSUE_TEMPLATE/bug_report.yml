@@ -1,6 +1,6 @@
 name: Report a Bug
 description: Something is not working.
-title: "[Bug]: "
+title: "Bug Report: "
 labels: [bug]
 body:
   - type: markdown
@@ -53,8 +53,3 @@ body:
     attributes:
       label: Logs
       description: Use a site like pastbin to provide a link to the logs here, also make sure they are set to not expire. (Leave blank if not applicable)
-  - type: input
-    id: offendingMod
-    attributes:
-      label: Do you know exactly what mod is not working? (Leave blank is you do not know)
-      description: Please list the mod(s) here.
