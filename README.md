@@ -5,8 +5,6 @@ Minecraft Reloaded+ aims to add features to improve on what all ready already ex
 Photo goes here but I can't figure out how to put it in README
 **Features**
 
-# **![](https://media.forgecdn.net/attachments/1073/276/minecraft_title-9-features.png)**
-
    **🏔️ Fully overhauled world generation**
 
    **🏠 New and overhauled structures**
