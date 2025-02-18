@@ -1,0 +1,14 @@
+name: Contact Me
+description: Contact me for something
+title: "Contact Me: "
+labels: [contact]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        I will respond soon...
+  - type: textarea
+    id: message
+    attributes:
+      label: Message
+      description: Write a messsage.
