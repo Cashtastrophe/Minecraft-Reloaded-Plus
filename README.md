@@ -1,53 +1,52 @@
-**This is not the place to dowload the modpack!!! Please use either CurseForge or Modrinth.**
 
-
-**Minecraft Reloaded+**
+![](https://media.forgecdn.net/attachments/1073/275/hn6d2cz-imgur.png)
 
 Minecraft Reloaded+ aims to add features to improve on what all ready already exist, while also including many popular mods that do not stray away far from the vanilla experience. Think of this like a Vanilla++ modpack, changing the game but also improving it!
 
-Photo goes here but I can't figure out how to put it in README
+[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/minecraftreloaded)[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/modpack/minecraft-reloaded-plus)
 
-**Features**
+![](https://media.forgecdn.net/attachments/1073/276/minecraft_title-9-features.png)
 
-   **🏔️ Fully overhauled world generation**
 
-   **🏠 New and overhauled structures**
+   **🏔️ Fully overhauled world generation**
 
-   **🦆 50+ new mobs**
+   **🏠 New and overhauled structures**
 
-   **💧 Thirst & other survival mechanics**
+   **🦆 50+ new mobs**
 
-   **🍳 Cooking and farming overhaul**
+   **💧 Thirst & other survival mechanics**
 
-   **🏆 200+ Advancements**
+   **🍳 Cooking and farming overhaul**
 
-   **🏖️ Quality of life features**
+   **🏆 200+ Advancements**
 
-   ▶️ **New animations**
+   **🏖️ Quality of life features**
 
-   **🗺️ Mini-map and waypoints**
+   ▶️ **New animations**
 
-   **🗓️ Seasons & improved weather**
+   **🗺️ Mini-map and waypoints**
 
-   ⚡ **Optimized with built in shader support**
+   **🗓️ Seasons & improved weather**
 
-   **➕ And more fetured in the 200+ mods**
+   ⚡ **Optimized with built in shader support**
 
- 
+   **➕ And more featured in the 200+ mods**
 
-**Preformace Tips**
+&nbsp;
+&nbsp;
 
-This modpack comes with pre activated shaders, to disable them go to Option>Video Settings> Shader>Enabled and set it to _false_. Then click apply and done.
+**Performance Tips**
 
-Disable V-Sync to get the best preformance.
+This modpack comes with pre activated shaders, to disable them go to Option>Video Settings>Shader>Enabled and set it to _false_. Then click apply and done.
 
- 
+Disable V-Sync to get the best performance.
+
+&nbsp;
 
 **Contact Me**
 
-Curseforge Messaging: [Click](https://www.curseforge.com/members/cashtastrophe/projects)  
-Issue Tracker: [Click](https://github.com/Cashtastrophe/ModpackUpdateChecker/issues)
+Curseforge Messaging: [Click](https://www.curseforge.com/members/cashtastrophe/projects)
 
- 
+Issue Tracker: [Click](https://github.com/Cashtastrophe/Minecraft-Reloaded-Plus/issues)
 
 Thanks for 500 downloads! 💖
