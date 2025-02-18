@@ -34,7 +34,7 @@ Minecraft Reloaded+ aims to add features to improve on what all ready already ex
 
 **➕ And more featured in the 200+ mods**
 
-   
+&nbsp;
 
 **Performance Tips**
 
@@ -42,12 +42,12 @@ This modpack comes with pre activated shaders, to disable them go to Option>Vide
 
 Disable V-Sync to get the best performance.
 
- 
+&nbsp;
 
 **Contact Me**
 
-E-Mail cashtastrophe.contact@gmail.com
+E-Mail: cashtastrophe.contact@gmail.com
 
-Issue Tracker: [Click](https://github.com/Cashtastrophe/Minecraft-Reloaded-Plus/issues)
+&nbsp;
 
 Thanks for 500 downloads! 💖
