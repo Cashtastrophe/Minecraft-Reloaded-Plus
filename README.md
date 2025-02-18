@@ -46,7 +46,7 @@ Disable V-Sync to get the best performance.
 
 **Contact Me**
 
-Curseforge Messaging: [Click](https://www.curseforge.com/members/cashtastrophe/projects)
+E-Mail cashtastrophe.contact@gmail.com
 
 Issue Tracker: [Click](https://github.com/Cashtastrophe/Minecraft-Reloaded-Plus/issues)
 
