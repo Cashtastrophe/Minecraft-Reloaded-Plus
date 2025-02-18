@@ -1,7 +1,7 @@
 **This is not the place to download the modpack! Please use Modrinth or CurseForge.**
 
+&nbsp;
 
-   
 ![](https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Reloaded-Plus/refs/heads/main/images/logo_banner.png)
 
 Minecraft Reloaded+ aims to add features to improve on what all ready already exist, while also including many popular mods that do not stray away far from the vanilla experience. Think of this like a Vanilla++ modpack, changing the game but also improving it!
