@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+        "id": "v0.0.9",
+        "releasedAt": 209384093820,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/minecraft-reloaded-plus/versions",
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/minecraftreloaded/files",
+                "generic": "https://github.com/Cashtastrophe/Minecraft-Reloaded-Plus/tree/main"
+            }
+        }
+    }
+]
+
+}
