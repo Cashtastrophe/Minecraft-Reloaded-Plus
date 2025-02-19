@@ -25,4 +25,4 @@ Close out of the windows.
 
 ![enter image description here](https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Reloaded-Plus/refs/heads/main/images/step-by-step/13.png)
 ![enter image description here](https://raw.githubusercontent.com/Cashtastrophe/Minecraft-Reloaded-Plus/refs/heads/main/images/step-by-step/14.png)
-It should be working now :)CommingSoon
+It should be working now :)
