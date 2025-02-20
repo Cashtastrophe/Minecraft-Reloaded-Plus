@@ -35,7 +35,17 @@ Minecraft Reloaded+ aims to add features to improve on what all ready already ex
 
 **➕ And more featured in the 200+ mods**
 
- 
+&nbsp;
+
+**Technical Stuff (You are on GitHub what did you expect)**
+
+Version name scheme (older version don't follow this)
+   *   Example version: **(A) vB.C**
+   *   **A** - Release type (ALPHA, BETA, RELEASE)
+   *   **B** - Major update (Major mod changes/overhaul)
+   *   **C** - Minor update (Minor mod changes/hotfixes/UI fixes)
+
+&nbsp;
 
 Bug Report: [Here](https://github.com/Cashtastrophe/Minecraft-Reloaded-Plus/issues/new?template=bug_report.yml) 
 
