@@ -3,25 +3,34 @@
   "hotfixesFormat": null,
   "versions": [
     {
-        "id": "v0.0.9",
-        "releasedAt": 209384093820,
+        "id": "(BETA) v9.1",
+        "releasedAt": 53481600000,
         "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/minecraft-reloaded-plus/versions",
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/minecraftreloaded/files",
-                "generic": "https://github.com/Cashtastrophe/Minecraft-Reloaded-Plus/tree/main"
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/minecraftreloaded/files"
             }
         }
     },
 
     {
-        "id": "v0.0.9-2",
-        "releasedAt": 209384093821,
+        "id": "(BETA) v9.2",
+        "releasedAt": 53481600000,
         "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/minecraft-reloaded-plus/versions",
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/minecraftreloaded/files",
-                "generic": "https://github.com/Cashtastrophe/Minecraft-Reloaded-Plus/tree/main"
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/minecraftreloaded/files"
+            }
+        }
+    },
+
+    {
+        "id": "(BETA) v9.3",
+        "releasedAt": 53481600000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/minecraft-reloaded-plus/versions",
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/minecraftreloaded/files"
             }
         }
     }
