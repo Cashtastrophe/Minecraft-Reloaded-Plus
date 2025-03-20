@@ -1,7 +1,7 @@
  **Beta versions may include bugs and issues, they are still be worked on! Ensure to backup your worlds before playing.**
  ----------------------------------------
  
-**v0.0.9-2**
+**Minecraft Reloaded+ | [BETA] v9.3**
 ----------------------------------------
 
 **Added**
