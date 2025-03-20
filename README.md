@@ -52,8 +52,8 @@ Thanks for 500 downloads! 💖
 Version name scheme (older version don't follow this)
    *   Example version: **NAME | [A] vB.C - D**
    *   **A** - Release type (ALPHA, BETA, RELEASE)
-   *   **B** - Major update (Major mod changes/overhaul)
-   *   **C** - Minor update (Minor mod changes/hotfixes)
+   *   **B** - Major(big) update (Major mod changes/overhaul)
+   *   **C** - Minor(small) update (Minor mod changes/hotfixes)
    *   **D** - Release platform (Modrinth/Curseforge)
 
 &nbsp;
