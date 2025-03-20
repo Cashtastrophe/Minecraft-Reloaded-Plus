@@ -20,6 +20,7 @@
 *   Rain should extinguish campfire - same feature as Unlit Campfire
 *   Panoramica - used for taking photos for the main screen ui but not used by players
 *   River redux - I could not tell a diffrence with it installed
+*   Just Enough Archaeology - pointless info
 
 **Fixes**
 
