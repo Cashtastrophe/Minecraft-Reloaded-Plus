@@ -9,6 +9,8 @@
 *   [AllTheLeakes (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) - performance/fixes
 *   [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) - performance/fixes
 *   [Thirsty Bottles](https://www.curseforge.com/minecraft/mc-mods/thirsty-bottles) - makes bottles like buckets (balances drinking)
+*   [Terraphilic](https://www.curseforge.com/minecraft/mc-mods/terraphilic) - compatipility fixes with terrain generation
+
 
 **Removed** | *These mods are still in the files but marked as disabled, so if I need to bring them back it is not a big deal (this only effects beta versions though)*
 
@@ -17,6 +19,7 @@
 *   Alex's Delight - unneeded compatibility
 *   Rain should extinguish campfire - same feature as Unlit Campfire
 *   Panoramica - used for taking photos for the main screen ui but not used by players
+*   River redux - I could not tell a diffrence with it installed
 
 **Fixes**
 
@@ -24,6 +27,6 @@
 
 **Other Stuff**
 
-*   Changelogs stored on GitHub
+*   Changelogs now stored on GitHub
 *   Will be on Modrinth soon (Check it out [here](https://modrinth.com/modpack/minecraft-reloaded-plus))
 *   Thanks for 520+ downloads :)
