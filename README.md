@@ -37,16 +37,30 @@ Minecraft Reloaded+ aims to add features to improve on what all ready already ex
 
 &nbsp;
 
-**Technical Stuff (You are on GitHub what did you expect)**
-
-Version name scheme (older version don't follow this)
-   *   Example version: **[A] vB.C**
-   *   **A** - Release type (ALPHA, BETA, RELEASE)
-   *   **B** - Major update (Major mod changes/overhaul)
-   *   **C** - Minor update (Minor mod changes/hotfixes/UI fixes)
-
-&nbsp;
-
 Bug Report: [Here](https://github.com/Cashtastrophe/Minecraft-Reloaded-Plus/issues/new?template=bug_report.yml) 
 
 Thanks for 500 downloads! 💖
+
+&nbsp;
+
+---------
+**Technical Stuff**
+---------
+
+&nbsp;
+
+Version name scheme (older version don't follow this)
+   *   Example version: **NAME | [A] vB.C - D**
+   *   **A** - Release type (ALPHA, BETA, RELEASE)
+   *   **B** - Major update (Major mod changes/overhaul)
+   *   **C** - Minor update (Minor mod changes/hotfixes)
+   *   **D** - Release platform (Modrinth/Curseforge)
+
+&nbsp;
+
+Why do I have the manually install files in Modrinth releases?
+   *   **Answer:** some mod licensing restrictions don't allow them to be uploaded off their native platform.
+
+Do anyone read this? Did I waste my time?
+   *   **Answer:** yeah
+
