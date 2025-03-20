@@ -1,14 +1,14 @@
 **Beta versions may include bugs and issues, they are still be worked on! Ensure to backup your worlds before playing.**
 ------------------
 
-**(BETA) v9.2**
+**Minecraft Reloaded+ | [BETA] v9.2**
 -------------
 
 **Added**
 
 *   [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) - stuff that feels like is should be in Minecraft
 *   [HT's TreeChop](https://www.curseforge.com/minecraft/mc-mods/treechop) - allows you to chop down tress
-*   [Pure Copper Tools](https://www.curseforge.com/minecraft/mc-mods/purecoppertools) - better than the last one
+*   [Pure Copper Tools](https://www.curseforge.com/minecraft/mc-mods/purecoppertools) - its back
 
 **Removed**
 
