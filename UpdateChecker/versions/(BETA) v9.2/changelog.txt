@@ -8,7 +8,7 @@
 
 *   [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) - stuff that feels like is should be in Minecraft
 *   [HT's TreeChop](https://www.curseforge.com/minecraft/mc-mods/treechop) - allows you to chop down tress
-*   [Pure Copper Tools](https://www.curseforge.com/minecraft/mc-mods/purecoppertools) - its back
+*   [Pure Copper Tools](https://www.curseforge.com/minecraft/mc-mods/purecoppertools) - it's back
 
 **Removed**
 
