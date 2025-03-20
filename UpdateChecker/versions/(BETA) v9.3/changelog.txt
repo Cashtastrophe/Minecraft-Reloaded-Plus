@@ -6,24 +6,24 @@
 
 **Added**
 
-*   [AllTheLeakes (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) - fixes
-*   [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) - fixes
+*   [AllTheLeakes (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) - performance/fixes
+*   [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) - performance/fixes
 *   [Thirsty Bottles](https://www.curseforge.com/minecraft/mc-mods/thirsty-bottles) - makes bottles like buckets (balances drinking)
 
 **Removed** | *These mods are still in the files but marked as disabled, so if I need to bring them back it is not a big deal (this only effects beta versions though)*
 
 *   Farmer's Respite - we have tea all ready...
-*   Craftable Bundles - did not apply on world creation
-*   Alex's Delight - unneeded compayibility
+*   Craftable Bundles - broken
+*   Alex's Delight - unneeded compatibility
 *   Rain should extinguish campfire - same feature as Unlit Campfire
-*   Panoramica - only used by me so why ship it in all versions
+*   Panoramica - used for taking photos for the main screen ui but not used by players
 
 **Fixes**
 
 *   Fixed menu bugs
 
-**Other Stuffs**
+**Other Stuff**
 
-*   Changelogs no longer stored in game file, they are now stored here on GitHub :)
+*   Changelogs stored on GitHub
 *   Will be on Modrinth soon (Check it out [here](https://modrinth.com/modpack/minecraft-reloaded-plus))
-*   Thanks for 450+ downloads
+*   Thanks for 520+ downloads :)
