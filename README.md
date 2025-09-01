@@ -1,4 +1,10 @@
-**⚠️ Project is not longer supported**
+***⚠️ This modpack in no longer supported.***
+
+This modpack was a great learning experience for me but I have decided to no longer support it and focus new projects. This modpack will not longer be receiving support or updates. Thank you for downloading this pack!
+
+
+
+You can check out my next modpack [here](https://modrinth.com/project/adventures-plus)
 ---------
 
 **This is not the place to download the modpack! Please use Modrinth or CurseForge.**
