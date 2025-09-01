@@ -1,4 +1,5 @@
-***⚠️ This modpack in no longer supported.***
+**⚠️ This modpack in no longer supported.**
+---------
 
 This modpack was a great learning experience for me but I have decided to no longer support it and focus new projects. This modpack will not longer be receiving support or updates. Thank you for downloading this pack!
 
